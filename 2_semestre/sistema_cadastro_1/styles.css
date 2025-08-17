@@ -1,0 +1,12 @@
+div {
+
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+div input, div textarea {
+
+    min-width: 20vw;
+}
